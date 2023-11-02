@@ -1,6 +1,6 @@
-body{background-color: green;
+body{background-color: white;
     padding: 2%; 
-    color: white;
+    color: black;
     margin: 20%;
     margin-top: auto;
     min-width: 320px; 
@@ -9,11 +9,12 @@ body{background-color: green;
     line-height: 2em;}
     .header{background-color: #1e1e1e;padding: 20px;margin-top: -1%;}
     
-    
+    h2 {color: white;
+    }
 
     body{font-size: 16px;}
     
-    footer{background-color: #1e1e1e;padding: 10px;text-align: center;font-size: 12px;}
+    footer{background-color: #1e1e1e;padding: 10px;color: white; text-align: center;font-size: 12px;}
 
 img {
 width: 100%;
